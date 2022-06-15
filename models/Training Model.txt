@@ -1,0 +1,15 @@
+Training Model :
+1. Prepare min 500 or more image, before that rename your image make sure don't same for each other
+2. Go to https://www.makesense.ai/, Upload your image, choose Object Detection, create name of your label then Start project
+3. Draw rectangle to your image what you want detection. Example, i'm want detection number plate
+4. If your image already boxes of rectangle inside, choose Export Annotations then zip in XML format then Export
+5. Make sure your image at same folder with zip file it was
+6. 
+
+
+
+
+
+
+
+nb: Sorry my english are bad
