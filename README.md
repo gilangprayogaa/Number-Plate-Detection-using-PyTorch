@@ -2,4 +2,5 @@
  Number Plate Detection using PyTorch
  
  module
+ 
  pip install detecto
