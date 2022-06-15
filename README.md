@@ -4,5 +4,7 @@
  Library requirement
 
  pip install paddleocr paddlepaddle
+
  pip install torch
+ 
  pip install detecto
