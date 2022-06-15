@@ -5,7 +5,7 @@ Training Model :
 4. If your image already boxes of rectangle inside, choose Export Annotations then zip in XML format then Export
 5. Make sure your image at same folder with zip file it was
 6. 
-
+7. 
 
 
 
