@@ -8,3 +8,4 @@
  pip install torch
  
  pip install detecto
+ 
